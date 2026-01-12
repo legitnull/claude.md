@@ -1,0 +1,1 @@
+- Activate conda env before running python files, `conda activate /share/project/fengyupu/conda_envs/flagscale-train-yupu/`, if the env is not found, ask the user for the right one.
